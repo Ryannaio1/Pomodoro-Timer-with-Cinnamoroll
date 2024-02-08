@@ -1,6 +1,6 @@
-# my_first_flutter_app
+# pomodoroTimer With Cinnamoroll
 
-A new Flutter project.
+Just a beginner ui test
 
 ## Getting Started
 
